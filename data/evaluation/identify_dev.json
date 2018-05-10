@@ -1,0 +1,31 @@
+[
+{
+	"author": "Euripides", 
+	"text": "Medea", 
+	"sections": [
+		{"start": 1, "end": 95, "type": "IAMBS"},
+		{"start": 96, "end": 130, "type": "ANAPESTS"},
+		{"start": 138, "end": 147, "type": "ANAPESTS"},
+		{"start": 160, "end": 172, "type": "ANAPESTS"},
+		{"start": 184, "end": 203, "type": "ANAPESTS"},
+		{"start": 214, "end": 356, "type": "IAMBS"},
+		{"start": 357, "end": 362, "type": "ANAPESTS"},
+		{"start": 365, "end": 409, "type": "IAMBS"},
+		{"start": 446, "end": 626, "type": "IAMBS"},
+		{"start": 663, "end": 758, "type": "IAMBS"},
+		{"start": 759, "end": 763, "type": "ANAPESTS"},
+		{"start": 764, "end": 823, "type": "IAMBS"},
+		{"start": 866, "end": 975, "type": "IAMBS"},
+		{"start": 1002, "end": 1080, "type": "IAMBS"},
+		{"start": 1081, "end": 1115, "type": "ANAPESTS"},
+		{"start": 1116, "end": 1250, "type": "IAMBS"},
+		{"start": 1271, "end": 1272, "type": "IAMBS"},
+		{"start": 1276, "end": 1277, "type": "IAMBS"},
+		{"start": 1284, "end": 1285, "type": "IAMBS"},
+		{"start": 1287, "end": 1288, "type": "IAMBS"},
+		{"start": 1293, "end": 1388, "type": "IAMBS"},
+		{"start": 1389, "end": 1419, "type": "ANAPESTS"}
+	]
+}
+]
+

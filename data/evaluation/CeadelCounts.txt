@@ -1,0 +1,19 @@
+Cyclops              585  205  244
+Rhesus               682   55   64
+Alcestis             802   50   53
+Medea               1037   68   75
+Heracleidae          888   51   68
+Hippolytus           987   42   62
+Andromache           936  106  150
+Hecuba               920  117  181
+Suppliants           915  124  157
+Electra              960  162  207
+Heracles             984  212  228
+Trojan Women         794  168  213
+Iphigenia in Tauris 1074  251  316
+Ion                 1045  270  289
+Helen               1253  345  446
+Phoenissae          1164  300  406
+Orestes             1134  447  561
+Bacchae              918  345  400
+Iphigenia in Aulis   816  283  354
